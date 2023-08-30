@@ -1,4 +1,12 @@
 # Sales-Dashboard
+**Key Task** 
+* Merged and Calculate Dataset in power BI
+* Managed to build sales dashboard in Power BI
+* Provides insights related to the dashboard
+
+
+**Dashboard**
+
 <img src="https://github.com/DaffaSuadaa/Sales-Dashboard/assets/134934646/13859347-da5d-4801-be70-b5ef6af97f9e" width="550" height="300">
 
 Look at that the data on the dashboard has 10 stores, total orders of 88 million, total sales of 7 billion, and revenue of 4 billion.
